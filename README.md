@@ -6,7 +6,6 @@ This Python script serves as a keylogger capable of monitoring keyboard input an
 
 - **Keylogging:** Captures both alphanumeric and special keys pressed by the user.
 - **Email Reporting:** Sends periodic email reports of logged keystrokes to a specified email address.
-- **Security:** Utilizes encryption protocols to ensure the confidentiality of logged data.
 - **Configurability:** Offers customizable options such as log file format, logging intervals, and targeted keystroke monitoring.
 
 ## Requirements
