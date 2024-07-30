@@ -24,7 +24,12 @@ This Python script serves as a keylogger capable of monitoring keyboard input an
 - `interval`: Interval in seconds for sending email reports (default is 60 seconds).
 - `to_email`: Email address to which reports will be sent.
 
+## Analysis of Detection of Keylogger
+
+![Analysis of Detection of Keylogger](/Analysis_of_Detection_of_Keylogger.png)
+
+## Email Report
+
+![Email Report](/Email_Report.png)
+
 ## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or raise issues for any suggestions or bug fixes.
-
