@@ -30,6 +30,6 @@ This Python script serves as a keylogger capable of monitoring keyboard input an
 
 ## Email Report
 
-![Email Report](/Email_Report.png)
+![Email Report](/Email_Report.jpg)
 
 ## Contributing
